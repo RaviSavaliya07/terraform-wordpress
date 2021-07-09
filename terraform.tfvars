@@ -1,0 +1,5 @@
+access_ip  = "0.0.0.0/0"
+dbname     = "wordpress"
+dbuser     = "user"
+dbpassword = "12345678"
+asg_image_id = "ami-0c1a7f89451184c8b"
